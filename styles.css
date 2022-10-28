@@ -1,8 +1,4 @@
-body {
-  padding: 20px;
-}
-
-.p20 {
+.main {
   padding: 20px;
 }
 
@@ -15,6 +11,18 @@ body {
   box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.2), 0 4px 10px 0 #00000030;
 background: #333;
 
+}
+
+.footer {
+  background-color: #000000;
+  color: #FFFFFF;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer-text {
+  font-size: .5rem;
 }
 
 .mb10 {
